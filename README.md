@@ -13,7 +13,12 @@
 
 3. **Salvar Planta**: Clique em "Salvar" para registrar a planta no aplicativo.
 
+![image](https://github.com/1-amanda/PlantManager_app/assets/128250381/36473784-51d7-43a3-86b8-580b2b8c940a)
+
+
 4. **Lista de Plantas**: Use o botão "Lista de Plantas" para visualizar todas as plantas registradas.
+
+![image](https://github.com/1-amanda/PlantManager_app/assets/128250381/58facab3-1818-49e4-a84d-3b4427a5f0e7)
 
 
 ## Contribuições
